@@ -21,3 +21,7 @@ Source file: [`BlinkIT_Grocery_Data.xlsx`](BlinkIT_Grocery_Data.xlsx).
 
 - Power BI Desktop
 - The included Excel workbook if Power BI prompts to relink its source
+
+## Dashboard preview
+
+![Blinkit sales dashboard](screenshots/blinkit-dashboard.png)
